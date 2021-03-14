@@ -1,5 +1,7 @@
 "# java-fundamentals-calculator-cristianabote" 
+
 Java Fundamentals - Calculator
+
 Given a character representing the basic operations (+, -, *, /, %) write a program that displays the value of the operation between x and y.  
 
 Input:
